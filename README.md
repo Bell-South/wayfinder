@@ -1,4 +1,4 @@
-# The Palantír
+# The Wayfinder
 
 *An all-seeing analytical tool for tracking and identifying objects across the realms of data*
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Palantír is an advanced object identification analysis system inspired by the mystical seeing-stones from Tolkien's universe. This tool processes JSON annotation files to track objects across multiple images, identifying when the same object appears in different contexts and providing comprehensive insights about your dataset.
+The Wayfinder is an advanced object identification analysis system inspired by the mystical seeing-stones from Tolkien's universe. This tool processes JSON annotation files to track objects across multiple images, identifying when the same object appears in different contexts and providing comprehensive insights about your dataset.
 
 ## 🔍 Key Features
 
